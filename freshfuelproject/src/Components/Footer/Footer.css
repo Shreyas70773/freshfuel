@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Anton';
+    src: url('../Static/fonts/staticfonts/Anton/Anton-Regular.ttf') format('truetype');
+}
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.footer {
+background-color: #c7c7c7;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+  padding-top: 20px;
+  overflow-y: hidden;
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  gap: 40px;
+  color: #252525;
+  font-size: 16px;
+  position: relative;
+  top: 200px;
+}
+
+.footer-links li {
+  cursor: pointer;
+}
+
+.footer-social-icons {
+  display: flex;
+  gap: 10px;
+  position: relative;
+  top: 200px;
+}
+
+.footer-icons-container {
+  padding: 10px;
+  padding-bottom: 6px;
+  background: #fbfbfb;
+  border: 1px solid #ebebeb;
+}
+
+.footer-icons-container img {
+  width: 25px;
+}
+
+.footer-copyright {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+  margin-bottom: 20px;
+  color: #1a1a1a;
+  font-size: 16px;
+  position: relative;
+  top: 200px;
+}
+
+.footer-copyright hr {
+  width: 80%;
+  border: 10px;
+  border-radius: 10px;
+  height: 2px;
+  background: #c7c7c7;
+}
+
+.parent {
+  margin: 0px;
+  position: absolute;
+  gap: 0px;
+}
+
+.Final-Text {
+
+  position: relative;
+  text-align: center;
+  font-family: Anton, sans-serif;
+  font-size: 300px;
+  top: 100px;
+  left: 30px;
+  letter-spacing: 0.1em;
+  margin: 0px;
+  padding: 0px;
+}
+
+.footer {
+  background-color: #c7c7c7;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+  padding-top: 20px;
+  overflow-y: hidden;
+}

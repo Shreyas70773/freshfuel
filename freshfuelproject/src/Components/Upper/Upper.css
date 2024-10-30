@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Pacifico';
+    src: url(../Static/fonts/staticfonts/Pacifico/Pacifico-Regular.ttf) format('truetype');
+  }
+  @font-face {
+    font-family:'JostBlack' ;
+    src: url('../Static/fonts/staticfonts/Jost-Black.ttf') format('truetype');
+  }
+.top-container {
+    position: relative;
+    height: 40vw;
+    width: 100vw;
+    background-color: #7BD3EA;
+}
+.main-text-div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    text-align: center;
+    width: 100%;
+}
+.main-text {
+    font-family: 'JostBlack', sans-serif;
+    font-size: 6vw;
+    overflow: auto;
+    letter-spacing: 0.1em;
+    color: #2c541d;
+}
+.explore-btn {
+    background-color:#74a84a;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Jost', sans-serif;
+    cursor: pointer;
+    letter-spacing: 0.1em;
+}
+.explore-btn:hover {
+    background-color: #13562f;
+    transform: scale(1.05);
+    transition: 0.6s;
+  }
+
+
+.home-bg {
+    height: 40vw;
+    width: 100vw;
+    overflow: visible;
+}

@@ -1,0 +1,25 @@
+@font-face {
+    font-family:'JostBlack' ;
+    src: url('../../assets/fonts/staticfonts/Jost-Black.ttf') format('truetype');
+  }
+  
+
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 60px;
+    box-shadow: 0 1px 3px -2px black;
+    margin-bottom: 1px;
+    background: white;
+}
+
+.logo p{
+    font-family: 'JostBlack',sans-serif;
+    font-size: 1.5rem;
+    letter-spacing: 0.11em;
+  }
+.nav-profile{
+    width: 100px;
+}
