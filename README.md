@@ -4,21 +4,41 @@ FreshFuel is a full-stack e-commerce application that enables users to browse an
 
 It features a modern frontend for customers, a Material UI-powered admin interface, and a robust backend with secure JWT-based authentication.
 
----
+
 
 ## 📸 Demo Screenshots
 
+Storefront Home
 
-| Feature            | Screenshot |
-|-------------------|------------|
-| Storefront Home   | ![](./screenshots/storefront-home.png) |
-| Product Detail    | ![](./screenshots/product-detail.png) |
-| Cart Page         | ![](./screenshots/cart.png) |
-| User Login        | ![](./screenshots/user-login.png) |
-| Admin Dashboard   | ![](./screenshots/admin-dashboard.png) |
-| Admin Product Edit| ![](./screenshots/admin-product-edit.png) |
+<img width="1895" height="758" alt="{A4AE15FF-8444-43B6-8BA7-9A4A8A283510}" src="https://github.com/user-attachments/assets/b406832b-800b-424a-82b0-a6a7ed8e22ae" />
 
----
+Featured Items
+
+<img width="1894" height="792" alt="{8950E883-FDB4-4FB3-B8C2-B259C8A6C65E}" src="https://github.com/user-attachments/assets/b16cee2c-a127-40ee-a8ac-ab19460649a5" />
+
+Footer
+
+<img width="1898" height="914" alt="{C37FD939-C6A9-4669-A411-B42FDCBBAF22}" src="https://github.com/user-attachments/assets/0897fb74-96ec-48d4-b270-a4df09e1d6e0" />
+
+
+Product Detail
+
+<img width="1920" height="906" alt="{15412642-3DCF-47C8-9A6E-7944C6A7234F}" src="https://github.com/user-attachments/assets/c1300f1e-eda7-42c7-9145-46bd1d3a72a8" />
+
+Cart Page
+
+<img width="1895" height="458" alt="{90D0FEE9-3CC9-4481-A4EE-062C1C0AC07D}" src="https://github.com/user-attachments/assets/f0449317-5693-4149-b833-c548b6106bdb" />
+
+<img width="1681" height="711" alt="{93ABA1E1-A711-49FC-8250-568EF34FE4B8}" src="https://github.com/user-attachments/assets/0f4223a7-50f1-4c5b-b402-4d5c43bd436d" />
+
+Admin Page
+
+<img width="1889" height="910" alt="{C64A6782-E3F4-445A-9B94-3399D5EF0BA9}" src="https://github.com/user-attachments/assets/5a02a041-da24-44b1-bedd-42faaa30c3f8" />
+
+<img width="1911" height="888" alt="{27906788-0AC1-4BCC-BE70-BE7848AE00BB}" src="https://github.com/user-attachments/assets/f72840ac-94f3-4115-b3ec-1c33056b390f" />
+
+
+
 
 ## ⚙️ Tech Stack
 
